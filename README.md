@@ -85,7 +85,7 @@
 </br>
 </br>
 
-# COURSE 2 : [ADVANCED LEARNING ALGORITHMS](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms)
+## COURSE 2 : [ADVANCED LEARNING ALGORITHMS](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms)
 - Week 01 : [Neural Network](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks)
     1. [Neural Network Intuition](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks/01_Neural%20Networks%20Intuition.ipynb)
         - Neural Networks
@@ -159,7 +159,7 @@
         - Deciding what to try next revisited
         - Bias/Variance and Neural Networks
         - Lab : Diagnosing Bias and Variance
-    3. [Machin Learning Development Process](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W03_Advice%20for%20Applying%20Machine%20Learning/03_Machine%20Learning%20Development%20Process.ipynb)
+    3. [Machine Learning Development Process](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W03_Advice%20for%20Applying%20Machine%20Learning/03_Machine%20Learning%20Development%20Process.ipynb)
         - Iterative Loop of ML development
         - Error Analysis
         - Adding Data
@@ -195,4 +195,76 @@
 </br>
 </br>
 
-# COURSE 3 :  [UNSUPERVISED LEARNING, RECOMMENDERS, REINFORCEMENT LEARNING](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
+## COURSE 3 :  [UNSUPERVISED LEARNING, RECOMMENDERS, REINFORCEMENT LEARNING](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
+- Week 01 : [Unsupervised Learning](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W01_Unsupervsied%20Learning)
+    1. Welcome
+    2. [Clustering](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W01_Unsupervsied%20Learning/02_Clustering.ipynb)
+        - What is clustering
+        - Applications of Clustering
+        - K-means intuition
+        - K-means Algorithm
+        - Optimization Objective
+        - Initializing K-means
+        - Choosing the number of clusters
+    3. [Anomaly Detection](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W01_Unsupervsied%20Learning/03_Anomaly%20Detection.ipynb)
+        - Finding unusual events
+        - Anomaly Detection
+        - Density estimation
+        - Gaussian (normal) Detection
+        - Anomaly Detection Algorithm
+        - Developing and evaluating an anomaly detection system
+        - Anomaly Detection vs Supervised Learning
+        - Choosing what features to use
+    4. [Practice Lab : K-means Clustering](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W01_Unsupervsied%20Learning/Practice%20Lab_01.ipynb)
+        - Image Compression
+    5. [Practice Lab : Anomaly Detection in server computers](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W01_Unsupervsied%20Learning/Practice%20Lab_02.ipynb)
+</br>
+
+- Week 02 : [Recommender Systems](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W02_Recommender%20Systems)
+    1. [Collaborative Filtering](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W02_Recommender%20Systems/01_Collaborative%20Filtering.ipynb)
+        - Making Recommendations
+        - Using per-item features
+        - Collaborative Filtering Algorithm
+    2. [Recommender Systems Implementation](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W02_Recommender%20Systems/02_Recommender%20Systems%20Implementation%20Detail.ipynb)
+        - Mean Normalization
+        - Tensorflow implementation of collaborative filtering
+        - Finding Related items
+    3. [Content Based Filtering](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W02_Recommender%20Systems/03_Content%20Based%20Filtering.ipynb)
+        - Collaborative Filtering vs Content-base Filtering
+        - Deeplearning for content-base filtering
+        - Recommending from a large catalogue
+        - Tensorflow implementation of content-based filtering
+    4. [Principal Component Analysis](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W02_Recommender%20Systems/04_Principal%20Component%20Analysis.ipynb)
+        - Reducing the number of features
+        - PCA algorithm
+        - PCA in code 
+        - Applications of PCA
+        - Lab : PCA and data visulization
+    5. [Practice Lab : Collaborative Filtering Recommender Systems](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W02_Recommender%20Systems/Practice%20Lab_01.ipynb)
+        - Recommender system for movies
+    6. [Practice Lab : Deep Learning for Content-based Filtering](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W02_Recommender%20Systems/Practice%20Lab_02.ipynb)
+        - Recommebder for movies
+</br>
+
+- Week 03 : [Reinforcement Learning](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W03_Reinforcement%20Leaning)
+    1. [Reinforcement Learning Introduction](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W03_Reinforcement%20Leaning/01_Reinforcement%20Learning%20Introduction.ipynb)
+        - What is Reinforcement Learning
+        - The return in Reinforcement Learning
+        - Making decisions : Polices of reinforcement learning
+        - The goal of reinforcement learning
+        - Markov Decision Process(MDP)
+    2. [State-action value function](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W03_Reinforcement%20Leaning/02_State-action%20value%20function.ipynb)
+        - State-action value function definition (Q function)
+        - Lab : State action value function
+            - mars rover example
+        - Bellman Equation
+        - Random (stochastic) environment
+    3. [Continuous state space](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/03_Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/W03_Reinforcement%20Leaning/03_Continuous%20state%20space.ipynb)
+        - Examples of continous state space applications
+        - Lunar lander
+        - Learning the state-function 
+        - Algorithm refinement : Improved neural netwprk architecture
+        - Algorithm refinment e-greedy policy
+        - Mini-batching and soft-updates
+        - The state of reinforcement learning
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/BELL8NS28H2F)
