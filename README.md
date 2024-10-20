@@ -28,7 +28,6 @@
         - Running Gradient Descent
         - Lab : To automate the process of optimizing w and b using gradient descent
     5. [Linear Regression from Scratch](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/05_Linear%20Regression%20From%20Scratch.ipynb)
-
 </br>
 
 - Week 02 : [Regression with Multiple input variables](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W02_Regression%20with%20Multiple%20input%20variables)
@@ -51,9 +50,7 @@
         - Selecting Features
         - Scaling Features
         - Linear Regression using scikit-learn
-    3. [Practice Lab Linear Regression](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W02_Regression%20with%20Multiple%20input%20variables/03_Practice%20Lab%20%20Linear%20Regression.ipynb)
-
-        
+    3. [Practice Lab Linear Regression](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W02_Regression%20with%20Multiple%20input%20variables/03_Practice%20Lab%20%20Linear%20Regression.ipynb)   
 </br>
 
 - Week 03 : [Classification](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W03_Classification)
@@ -84,17 +81,117 @@
         - Regularized Linear Regression
         - Regularizeed Logistic Regression
         - Lab : Regularized Cost and Gradient
-</br>
-
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/ENRWU6E5QDYU)
-
-
 </br>
 </br>
 
 # COURSE 2 : [ADVANCED LEARNING ALGORITHMS](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms)
+- Week 01 : [Neural Network](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks)
+    1. [Neural Network Intuition](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks/01_Neural%20Networks%20Intuition.ipynb)
+        - Neural Networks
+        - Demand Prediction
+        - Example : Recognizing images
+    2. [Neural Network Model](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks/02_Neural%20Network%20Model.ipynb)
+        - Neural Network Layer
+        - More Complex Neural Networks
+        - Forward Propagation
+        - Handwritten digit recognition
+        - Lab : Neurons and Layers
+    3. [Tensorflow Implementation](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks/03_TensorFlow%20Implementation.ipynb)
+        - Inference in Code
+        - Build the model using TensorFlow
+        - Model for digit Classification
+        - Data in Tensorflow
+        - Feature vectors
+        - Activation vector
+        - Building a neural network architecture
+        - Lab : Coffee Roasting in Tensorflow
+    4. [Neural Network Implmentation in Python](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks/04_Neural%20Network%20implementation%20in%20Python.ipynb)
+        -  Forward Propagation in a single layer
+        - Lab : Coffee Roasting Numpy
+    5. [Speculations on Artificial General Intelligence (AGI)](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks/05_Speculations%20on%20Artificial%20General%20Intelligence%20(AGI).ipynb)
+        - Artificial Narrow Intelligence (ANI)
+        - Artificial General Intelligence (AGI)
+    6. [Vectorization](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W01_Neural%20Networks/06_Vectorization.ipynb)
+        - How neural networks are implemented efficiently.
+        - Matrix Multiplication
+</br>
 
+- Week 02 : [Neural Network Training](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms/W02_Neural%20Network%20Training)
+    1. [Neural Network Training](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W02_Neural%20Network%20Training/01_Neural%20Network%20Training.ipynb)
+        - Tensorflow implementation
+        - Training Details
+    2. [Activation Function](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W02_Neural%20Network%20Training/02_Activation%20Functions.ipynb)
+        - Alternatives to the Sigmoid activation
+        - Choosing Activation Functions
+        - Why do we need activation functions
+        - Lab : ReLu activation
+    3. [Multiclass Classification](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W02_Neural%20Network%20Training/03_Multiclass%20Classification.ipynb)
+        - Multiclass
+        - softmax
+        - Neural network with softmax output
+        - Improved implementation of softmax
+        - Classification with multiple outputs.
+        - Lab : Softmax Function
+        - Lab : Multiclass
+    4. [Additional Neural Network Concepts](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W02_Neural%20Network%20Training/04_Additional%20Neural%20Network%20Concepts.ipynb)
+        - Additional Optimization
+        - Additional Layer Types
+        - Convolutional layer
+        - Convolutional Neural Network
+    5. [Back Propagation](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W02_Neural%20Network%20Training/05_Back%20Propagation.ipynb)
+        - What is a derivative
+        - Computation Graph
+        - Larger Neural Network
+</br>
 
+- Week 03 : [Advice for Applying ML](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms/W03_Advice%20for%20Applying%20Machine%20Learning)
+    1. [Advice for Applying Machine Learning](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W03_Advice%20for%20Applying%20Machine%20Learning/01_Advice%20for%20Applying%20Machine%20Learning.ipynb)
+        - Deciding what to try next
+        - Evaluating a model
+        - Model Selection and Training/Cross validation/test sets
+        - Lab : Model Evaluation and Selection
+    2. [Bias and Variance](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W03_Advice%20for%20Applying%20Machine%20Learning/02_Bias%20and%20Variance.ipynb)
+        - Diagnosing bias and variance
+        - Regularization and Bias/Variance
+        - Establising a baseline level of performance
+        - Learning Curves
+        - Deciding what to try next revisited
+        - Bias/Variance and Neural Networks
+        - Lab : Diagnosing Bias and Variance
+    3. [Machin Learning Development Process](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W03_Advice%20for%20Applying%20Machine%20Learning/03_Machine%20Learning%20Development%20Process.ipynb)
+        - Iterative Loop of ML development
+        - Error Analysis
+        - Adding Data
+        - Transfer Learning
+        - Full cycle of a machine learning project
+    4. [Skewed Database](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W03_Advice%20for%20Applying%20Machine%20Learning/04_Skewed%20Datasets.ipynb)
+        - Error metrics for skewed datasets
+        - Trading off precision and recall
+</br>
+
+- Week 04 : [Decision Trees](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/02_Advanced%20Learning%20Algorithms/W04_Decision%20Trees)
+    1. [Decision Trees](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W04_Decision%20Trees/01_Decision%20Trees.ipynb)
+        - Decision Trees
+        - Learning Process
+    2. [Decision Tree Learning](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W04_Decision%20Trees/02_Decision%20Tree%20Learning.ipynb)
+        - Entropy as a measure of impurity
+        - Choosing a split : Information Gain
+        - Decision Tree Learning
+        - Using one-hot encoding of categorial features
+        - Continuous Valued Features
+        - Regression Trees
+        - Lab : Decision Trees
+    3. [Tree Ensembles](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/02_Advanced%20Learning%20Algorithms/W04_Decision%20Trees/03_Tree%20Ensembles.ipynb)
+        - Using Multiple Decision Trees
+        - Tree ensemble
+        - Sampling with replacement
+        - Random Forest Algorithm
+        - XGBoost
+        - When to use decision trees
+        - Decision Trees vs Neural Networks
+        - Lab : Tree Ensembles - Heart Failure Prediction
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/M765BBQNHZTB)
 </br>
 </br>
 
