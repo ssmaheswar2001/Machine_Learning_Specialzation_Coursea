@@ -3,22 +3,22 @@
 
 ## COURSE 1 : [SUPERVISED ML REGRESSION & CLASSIFICATION](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/01_Supervised%20ML%20%20Regression%20%26%20Classification)
 - Week 01 : [Intro to ML](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/tree/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML)
-    - 01. [Overview of ML](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/01_Overview%20of%20ML.ipynb)
+    - 01.[Overview of ML](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/01_Overview%20of%20ML.ipynb)
         - Learning Objective
         - Applications of ML
-    - 02. [Supervised vs Unsupervised ML](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/02_supervised%20vs%20Unsupervised%20ML.ipynb)
+    - 02.[Supervised vs Unsupervised ML](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/02_supervised%20vs%20Unsupervised%20ML.ipynb)
         - What is ML
         - Supervised Learning
         - Supervised Learning Types
         - Unsupervised Learning
-    - 03. [Regression Model](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/03_Regression%20Model.ipynb)
+    - 03.[Regression Model](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/03_Regression%20Model.ipynb)
         - Linear Regression with one variable
         - Lab : Model Representation
         - Cost Function
         - Cost Function Intuition
         - Visualizing the cost function
         - Lab : Cost Function
-    - 04. [Training the model with GD](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/04_Training%20the%20model%20with%20GD.ipynb)
+    - 04.[Training the model with GD](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/04_Training%20the%20model%20with%20GD.ipynb)
         - Gradient Descent
         - Implementing Gradient Descent
         - Gradient Descent Intuition
@@ -26,7 +26,7 @@
         - Gradient Descent for Linear Regression
         - Running Gradient Descent
         - Lab : To automate the process of optimizing w and b using gradient descent
-    - 05. [Linear Regression from Scratch](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/05_Linear%20Regression%20From%20Scratch.ipynb)
+    - 05.[Linear Regression from Scratch](https://github.com/ssmaheswar2001/Machine_Learning_Specialzation_Coursea/blob/main/01_Supervised%20ML%20%20Regression%20%26%20Classification/W01_Intro%20to%20ML/05_Linear%20Regression%20From%20Scratch.ipynb)
 
 </br>
 
